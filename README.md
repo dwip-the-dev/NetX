@@ -20,8 +20,8 @@
 ## 🖥️ Install (if your brain works)
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/netx.git
-cd netx
+git clone https://github.com/dwip-the-dev/NetX.git
+cd NetX
 python3 -m venv venv
 source venv/bin/activate   # or whatever
 pip install -r requirements.txt
