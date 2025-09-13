@@ -1,0 +1,5 @@
+flask
+requests
+psutil
+netifaces
+py-cpuinfo
